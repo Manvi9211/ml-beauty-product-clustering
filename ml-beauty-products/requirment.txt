@@ -1,0 +1,11 @@
+2. Open the notebook:
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+## Author
+Manvi Mishra
